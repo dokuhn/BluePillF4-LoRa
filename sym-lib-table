@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BluePillF4-cache")(type "KiCad")(uri "${KIPRJMOD}/BluePillF4-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "BluePillF4")(type "KiCad")(uri "${KIPRJMOD}/BluePillF4.kicad_sym")(options "")(descr ""))
+)
