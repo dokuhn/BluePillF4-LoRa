@@ -576,6 +576,9 @@
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005b8ee9e8"
       (reference "#SUPPLY0101") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005a4d7c11/0544e51f-a1f6-4520-9e18-2c81559d20e5"
+      (reference "#SUPPLY0102") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a088d6e"
       (reference "C1") (unit 1) (value "10u") (footprint "BluePillF4 Lib:C0603")
     )
@@ -635,6 +638,9 @@
     )
     (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc654"
       (reference "C20") (unit 1) (value "1u") (footprint "BluePillF4 Lib:C0603")
+    )
+    (path "/00000000-0000-0000-0000-00005a4d7c11/a5f1a03a-0328-4fbe-bb03-43667d97f62d"
+      (reference "C21") (unit 1) (value "100n") (footprint "BluePillF4 Lib:C0603")
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a089ab6"
       (reference "D1") (unit 1) (value "GREEN") (footprint "BluePillF4 Lib:LED0603")
