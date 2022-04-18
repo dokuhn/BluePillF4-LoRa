@@ -483,8 +483,8 @@
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08bfd2"
       (reference "#SUPPLY023") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08c036"
-      (reference "#SUPPLY024") (unit 1) (value "+3V3A") (footprint "")
+    (path "/00000000-0000-0000-0000-00005a4d4310/d1e9f651-f315-4531-8f4c-f91d9a5cbf74"
+      (reference "#SUPPLY024") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08c09a"
       (reference "#SUPPLY025") (unit 1) (value "+3V3") (footprint "")
@@ -531,47 +531,17 @@
     (path "/00000000-0000-0000-0000-00005a4d7c11/4f259e90-a869-4a98-89df-9dfee0d77414"
       (reference "#SUPPLY039") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005a4d7c11/f68883d1-d70d-48c1-a64d-945390e43e96"
+      (reference "#SUPPLY040") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a57fb4b"
       (reference "#SUPPLY042") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a584a64"
-      (reference "#SUPPLY043") (unit 1) (value "+VBAT") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a6e4857"
-      (reference "#SUPPLY045") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a6e48df"
-      (reference "#SUPPLY046") (unit 1) (value "+VIN") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc75e"
-      (reference "#SUPPLY047") (unit 1) (value "+VIN") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc787"
-      (reference "#SUPPLY048") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc7a9"
-      (reference "#SUPPLY049") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a587ea2"
-      (reference "#SUPPLY050") (unit 1) (value "+VBAT") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6dffce"
       (reference "#SUPPLY051") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6dffd4"
       (reference "#SUPPLY052") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6dffda"
-      (reference "#SUPPLY053") (unit 1) (value "+3V3A") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6e001f"
-      (reference "#SUPPLY054") (unit 1) (value "+VIN") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6e0025"
-      (reference "#SUPPLY055") (unit 1) (value "+VIN") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6e0034"
-      (reference "#SUPPLY057") (unit 1) (value "AGND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005b8ee9e8"
       (reference "#SUPPLY0101") (unit 1) (value "GND") (footprint "")
@@ -633,12 +603,6 @@
     (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6e0015"
       (reference "C18") (unit 1) (value "100n") (footprint "BluePillF4 Lib:C0603")
     )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc5f8"
-      (reference "C19") (unit 1) (value "1u") (footprint "BluePillF4 Lib:C0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc654"
-      (reference "C20") (unit 1) (value "1u") (footprint "BluePillF4 Lib:C0603")
-    )
     (path "/00000000-0000-0000-0000-00005a4d7c11/a5f1a03a-0328-4fbe-bb03-43667d97f62d"
       (reference "C21") (unit 1) (value "100n") (footprint "BluePillF4 Lib:C0603")
     )
@@ -650,9 +614,6 @@
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a308ba1"
       (reference "D3") (unit 1) (value "1N5819HW") (footprint "BluePillF4 Lib:SOD-123")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4da4e6"
-      (reference "D4") (unit 1) (value "1N5819HW") (footprint "BluePillF4 Lib:SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a089caa"
       (reference "J1") (unit 1) (value "MH20-1") (footprint "BluePillF4 Lib:MH20-1-0.1")
@@ -702,9 +663,6 @@
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08a6d2"
       (reference "PC7") (unit 1) (value "TEST_PAD") (footprint "BluePillF4 Lib:TEST_PAD")
     )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc942"
-      (reference "Q1") (unit 1) (value "IRLML6402") (footprint "BluePillF4 Lib:SOT323")
-    )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08a9f2"
       (reference "R1") (unit 1) (value "100k") (footprint "BluePillF4 Lib:R0603")
     )
@@ -750,24 +708,6 @@
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a42d7b9"
       (reference "R16") (unit 1) (value "1M") (footprint "BluePillF4 Lib:R0603")
     )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4db032"
-      (reference "R17") (unit 1) (value "15k") (footprint "BluePillF4 Lib:R0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4db01e"
-      (reference "R18") (unit 1) (value "10k") (footprint "BluePillF4 Lib:R0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4d9dd1"
-      (reference "R19") (unit 1) (value "0R") (footprint "BluePillF4 Lib:R0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a58633c"
-      (reference "R20") (unit 1) (value "0R") (footprint "BluePillF4 Lib:R0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a6e3eb6"
-      (reference "R21") (unit 1) (value "10k") (footprint "BluePillF4 Lib:R0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a6e4128"
-      (reference "R22") (unit 1) (value "10k") (footprint "BluePillF4 Lib:R0603")
-    )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08b41a"
       (reference "S1") (unit 1) (value "SKSGACE010") (footprint "BluePillF4 Lib:SKSGACE010")
     )
@@ -777,17 +717,11 @@
     (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6dffe5"
       (reference "U1") (unit 1) (value "AP2114HA-3.3TRG1") (footprint "BluePillF4 Lib:SOT223")
     )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a6dfff1"
-      (reference "U2") (unit 1) (value "AP2112K3.3-TRG1") (footprint "BluePillF4 Lib:SOT23-5")
-    )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08c806"
       (reference "U3") (unit 1) (value "STM32F405RGT6") (footprint "BluePillF4 Lib:LQFP64")
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a08c8ce"
       (reference "U4") (unit 1) (value "SY6280") (footprint "BluePillF4 Lib:SOT23-5")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d7c11/00000000-0000-0000-0000-00005a4dc6e1"
-      (reference "U5") (unit 1) (value "MCP73812T-420I/OT") (footprint "BluePillF4 Lib:SOT23-5")
     )
     (path "/00000000-0000-0000-0000-00005a4d7c11/79b35b25-ceb2-4c74-919e-0ad3f9ca9c59"
       (reference "U6") (unit 1) (value "RFM95W-868S2") (footprint "RF_Module:HOPERF_RFM9XW_SMD")
