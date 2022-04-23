@@ -552,12 +552,6 @@
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a088d6e"
       (reference "C1") (unit 1) (value "10u") (footprint "BluePillF4 Lib:C0603")
     )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a088e36"
-      (reference "C2") (unit 1) (value "6p8") (footprint "BluePillF4 Lib:C0603")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a088efe"
-      (reference "C3") (unit 1) (value "6p8") (footprint "BluePillF4 Lib:C0603")
-    )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a088fc6"
       (reference "C4") (unit 1) (value "20p") (footprint "BluePillF4 Lib:C0603")
     )
@@ -725,9 +719,6 @@
     )
     (path "/00000000-0000-0000-0000-00005a4d7c11/79b35b25-ceb2-4c74-919e-0ad3f9ca9c59"
       (reference "U6") (unit 1) (value "RFM95W-868S2") (footprint "RF_Module:HOPERF_RFM9XW_SMD")
-    )
-    (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a346a7b"
-      (reference "Y1") (unit 1) (value "FC-12M") (footprint "BluePillF4 Lib:FC-12M")
     )
     (path "/00000000-0000-0000-0000-00005a4d4310/00000000-0000-0000-0000-00005a09181b"
       (reference "Y2") (unit 1) (value "NX3225GD") (footprint "BluePillF4 Lib:CRYSTAL_32X25_2P")

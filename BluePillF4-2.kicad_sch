@@ -536,6 +536,7 @@
   (no_connect (at 73.66 55.88) (uuid 5360c5b5-0f0e-435d-b78e-cf5d20dc6705))
   (no_connect (at 73.66 58.42) (uuid 5360c5b5-0f0e-435d-b78e-cf5d20dc6706))
   (no_connect (at 73.66 48.26) (uuid 5360c5b5-0f0e-435d-b78e-cf5d20dc6707))
+  (no_connect (at 40.64 55.88) (uuid 65ebbac9-67a0-45c5-a6c3-6e2f1964d0ae))
 
   (wire (pts (xy 161.925 45.339) (xy 164.465 45.339))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1483,7 +1484,7 @@
     (property "Reference" "#SUPPLY040" (id 0) (at 139.065 42.799 0)
       (effects (font (size 1.143 1.143)) (justify left bottom) hide)
     )
-    (property "Value" "" (id 1) (at 139.065 38.1 0)
+    (property "Value" "+5V" (id 1) (at 139.065 38.1 0)
       (effects (font (size 1.143 1.143)))
     )
     (property "Footprint" "" (id 2) (at 139.065 42.799 0)
