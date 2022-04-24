@@ -402,7 +402,7 @@
       "netlist": "BluePillF4 0603 TD.net",
       "specctra_dsn": "",
       "step": "BluePillF4.step",
-      "vrml": ""
+      "vrml": "BluePillF4.wrl"
     },
     "page_layout_descr_file": ""
   },
