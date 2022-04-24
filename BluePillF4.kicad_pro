@@ -401,7 +401,7 @@
       "idf": "",
       "netlist": "BluePillF4 0603 TD.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "BluePillF4.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
